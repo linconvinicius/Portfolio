@@ -1,4 +1,4 @@
-.projetos {
+.trabalho {
     max-width: 1200px;
     padding: 40px 20px;
     margin: 0 auto;
@@ -7,7 +7,7 @@
     gap: 100px;
 }
 
-.projetos .subtitulo {
+.trabalho .subtitulo {
     color: #e0e0e0;
 }
 
@@ -84,16 +84,16 @@
 
 
 @media (max-width: 800px) {
-    .projetos {
+    .trabalho {
         grid-template-columns: 1fr;
         gap: 40px;
     }
 
-    .projetos .subtitulo {
+    .trabalho .subtitulo {
         color: #141414;
     }
 
-    .projetos-texto {
+    .trabalho-texto {
         font-size: 1.25rem;
     }
 
