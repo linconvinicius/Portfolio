@@ -6,7 +6,7 @@
 
 ## Acesso ao Portfolio
 
-<p>Para visualizar o meu portfolio, <a href="https://github.com/linconvinicius/PortfolioQA.git">Clique aqui!</a><br></p>
+<p>Para visualizar o meu portfolio, <a href="https://linconvinicius.github.io/Portfolio/">Clique aqui!</a><br></p>
 </div>
 
 <div align="center">
