@@ -65,7 +65,7 @@
 .faculdade-tipo {
     font-size: .875rem;
     text-transform: uppercase;
-    color: #141414;
+    color: #525252;
     margin-bottom: 10px;
 }
 
@@ -89,11 +89,12 @@
 
 .faculdade-instituicao {
     font-size: 1.125rem;
-    color: #141414;
+    color: #525252;
 }
 
 .cursos {
     margin-bottom: 60px;
+    color: #525252;
 }
 
 .formacao-extra h3 {
@@ -135,6 +136,7 @@
 
 .hardskills ul li {
     margin-right: 10px;
+    color: #525252
 }
 
 .formacao-extra li {
