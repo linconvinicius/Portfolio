@@ -8,14 +8,14 @@
 }
 
 .trabalho .subtitulo {
-    color: #e0e0e0;
+    color: #545454;
 }
 
 .projetos-texto {
     font-size: 1.5rem;
     line-height: 1.33;
-    max-width: 40ch;
-    margin-bottom: 60px;
+    max-width: 60ch;
+    margin-bottom: 40px;
     color: #525252;
 }
 
@@ -49,7 +49,7 @@
     position: absolute;
     top: 22px;
     left: -100px;
-    color: #525252;
+    /* color: #525252; */
     font-size: 0.875rem;
     width: 80px;
     text-align: right;
@@ -63,7 +63,7 @@
 
 .experiencia-texto {
     font-size: 0.875rem;
-    color: 525252;
+    color: #525252;
     line-height: 1.4;
 }
 

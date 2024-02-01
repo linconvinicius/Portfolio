@@ -24,10 +24,9 @@ img {
 }
 
 .subtitulo {
-    font-size: 8rem;
-    line-height: 1;
+    font-size: 5rem;
+    line-height: 0;
     text-transform: uppercase;
-    word-break: break-all;
     max-width: 4ch;
 }
 
