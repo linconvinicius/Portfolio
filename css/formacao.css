@@ -5,11 +5,11 @@
 
 .formacao-container {
     max-width: 1200px;
-    padding: 120px 20px;
+    padding: 40px 20px;;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 100px;
+    /* grid-template-columns: 1fr 2fr; */
+    /* gap: 100px; */
     position: relative;
 }
 
@@ -26,14 +26,20 @@
 
 .formacao .subtitulo {
     color: #545454;
-    max-width: 5ch;
+    content: "";
+    display: block;
+    width: 1200px;
+    height: auto;
+    position: relative;
+    top: 10px;
+    left: 400px;
 }
 
 .formacao-texto {
     font-size: 1.5rem;
     line-height: 1.33;
-    max-width: 40ch;
-    margin-bottom: 60px;
+    max-width: 60ch;
+    margin-bottom: 40px;
     color: #525252;
 }
 

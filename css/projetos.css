@@ -3,12 +3,19 @@
     padding: 40px 20px;
     margin: 0 auto;
     display: grid;
-    grid-template-columns: 1fr 2fr;
-    gap: 100px;
+    /* grid-template-columns: 1fr 2fr; */
+    /* gap: 100px; */
 }
 
 .trabalho .subtitulo {
     color: #545454;
+    content: "";
+    display: block;
+    width: 1200px;
+    height: auto;
+    position: relative;
+    top: 10px;
+    left: 400px;
 }
 
 .projetos-texto {
@@ -47,12 +54,18 @@
 
 .experiencia-ano {
     position: absolute;
-    top: 22px;
-    left: -100px;
-    /* color: #525252; */
-    font-size: 0.875rem;
-    width: 80px;
-    text-align: right;
+    top: 20px;
+    left: 170px;
+    font-size: 1rem;
+    text-align: end;
+}
+
+.experiencia-ano-ti{
+    position: absolute;
+    top: 20px;
+    left: 190px;
+    font-size: 1rem;
+    text-align: end;
 }
 
 .experiencia-titulo {
