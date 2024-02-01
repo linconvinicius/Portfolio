@@ -32,13 +32,13 @@
     height: auto;
     position: relative;
     top: 10px;
-    left: 400px;
+    left: 360px;
 }
 
 .formacao-texto {
     font-size: 1.5rem;
     line-height: 1.33;
-    max-width: 60ch;
+    /* max-width: 60ch; */
     margin-bottom: 40px;
     color: #525252;
 }
