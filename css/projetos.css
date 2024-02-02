@@ -11,11 +11,7 @@
     color: #545454;
     content: "";
     display: block;
-    width: 1200px;
     height: auto;
-    position: relative;
-    top: 5px;
-    left: 360px;
 }
 
 .projetos-texto {
@@ -56,14 +52,6 @@
     position: absolute;
     top: 20px;
     left: 170px;
-    font-size: 1rem;
-    text-align: end;
-}
-
-.experiencia-ano-ti{
-    position: absolute;
-    top: 20px;
-    left: 190px;
     font-size: 1rem;
     text-align: end;
 }

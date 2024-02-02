@@ -28,11 +28,7 @@
     color: #545454;
     content: "";
     display: block;
-    width: 1200px;
     height: auto;
-    position: relative;
-    top: 10px;
-    left: 360px;
 }
 
 .formacao-texto {
